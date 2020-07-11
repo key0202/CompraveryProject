@@ -10,5 +10,5 @@ package modelo;
  * @author Mikeyla
  */
 public class ClasePrueba {
-    
+    private String pruebita;
 }
